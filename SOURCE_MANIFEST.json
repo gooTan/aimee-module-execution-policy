@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "module": "execution-policy",
+  "classification": "required",
+  "execution": "core",
+  "runtime": null,
+  "placements": [
+    "server",
+    "kb"
+  ],
+  "principal_class": null,
+  "principal_ref": null,
+  "stages": [],
+  "source_sha256": "5b22790427d8a5cdb1d7ae48eadc4c2806f6bc82ea4026a7a93f95152f644802",
+  "owned_files": [
+    "src/modules/execution-policy/module.yaml",
+    "src/modules/execution-policy/execution_policy.c",
+    "docs/modules/execution-policy.md"
+  ]
+}
